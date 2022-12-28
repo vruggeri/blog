@@ -2,3 +2,7 @@ baseURL = 'https://github.com/vruggeri/blog/'
 languageCode = 'en-us'
 title = 'Ruggeri'
 theme = "hugo-clarity"
+
+
+# [menus]
+# config/_default/menus/menu.en.toml
