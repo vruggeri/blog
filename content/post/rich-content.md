@@ -2,6 +2,7 @@
 author: "Valdir Ruggeri"
 title: "Rich Content"
 date: 2022-12-27T21:19:20-03:00
+draft: true
 description: "Teste Valdir"
 tags: [
     "shortcodes",
