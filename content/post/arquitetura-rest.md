@@ -2,7 +2,7 @@
 author: "Valdir Ruggeri"
 title: "Arquitetura REST"
 date: 2022-12-27T19:30:20-03:00
-description: Arquitetura REST
+description: Arquitetura REST 
 ---
 ## 
 A transferência de estado representacional (representational state transfer - REST) é um estilo de arquitetura de software, proposto por <a class="is-external-link" href="https://en.wikipedia.org/wiki/Roy_Fielding">Roy Thomas Fielding</a> em sua <a class="is-external-link" href="https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf">dissertação de PhD</a>, em meados de 2000. A REST foi criada inicialmente como uma diretriz para gerenciar a comunicação em uma rede complexa como a internet, possibilitando uma comunicação confiável e de alta performance em escala. Os cinco mais importantes pilares da diretriz são:
